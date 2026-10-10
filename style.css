@@ -1,20 +1,23 @@
-.Rosa {
-  text-align:center;
-  background-color:rgb(200, 177, 178)
+.sidebar {
+	height: 100%;
+	width: 160px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: rgb(24,24,24);
+	overflow-x:hidden;
+	padding-top:20px;
 }
 
-.rtxt {	
-  background-image: url("https://i.pinimg.com/736x/ad/79/e9/ad79e926e5d44ab742969c7873786bbe.jpg");
-}
+/* ^^^^^^^^^^^^^^^^^ thank you w3schools https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp */
 
-@import url('https://fonts.cdnfonts.com/css/nintendo-ds-bios');
-
-.logan {
-	background-color: black;
-	color: white;
-	font-family: 'Nintendo DS BIOS';
+.sidebar a {
+	font-family: verdana;
+	text-align: center;
 }
 
 body {
 	background-color: rgb(24,24,24);
+	margin-left: 160px
 }
