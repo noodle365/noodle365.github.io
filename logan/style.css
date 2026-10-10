@@ -1,0 +1,29 @@
+@import url('https://fonts.cdnfonts.com/css/nintendo-ds-bios');
+
+.sidebar {
+	height: 100%;
+	width: 160px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: #222222;
+	overflow-x:hidden;
+	padding-top:20px;
+}
+
+.sidebar a p{
+	font-family: 'Nintendo DS BIOS';
+	text-align: center;
+}
+
+.content {
+	margin: 160px;
+	background-color: #FFFFFF;
+	font-family: 'Nintendo DS BIOS';
+}
+
+body {
+    background-color: #000000;
+	font-family: 'Nintendo DS BIOS';
+}
