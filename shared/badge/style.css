@@ -29,9 +29,8 @@ body {
 	font-size: 20px;
 	text-align: left;
 	background-color: rgb(16, 16, 19);
-	border-style: inset;
+	border-style: outset;
 	border-left-width: 10px;
-	border-left-color: rgb(214, 217, 219);
 	border-top-width: 10px;
-	border-top-color: rgb(214, 217, 219);
+	
 }
