@@ -11,8 +11,8 @@
 
 
 .sidebar a p {
-	font-family: "Bitcount Ink";
-	color: white;
+	font-family: "Anton";
+	color: black;
 	text-align: center;
 }
 
@@ -24,7 +24,8 @@ body {
 
 .content {
 	margin-left: 160px;
-	font-family: "Bitcount Ink";
+	font-family: "Anton";
+    color: black;
 	font-size: 30px;
 	text-align: center;
 }
