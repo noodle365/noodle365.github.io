@@ -23,6 +23,7 @@ body {
 }
 
 .content {
+	padding-left: 20px;
 	margin-left: 160px;
 	font-family: "JetBrains Mono", monospace;
     color: rgb(214, 217, 219);
