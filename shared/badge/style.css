@@ -20,7 +20,6 @@ body {
 	background-image: url("https://i.ibb.co/NzF2vxm/67adar75dk321.png");
 	font-family: verdana;
 	text-align: center;
-	background-color: rgb(255, 219, 239);
 }
 
 .content {
@@ -29,4 +28,5 @@ body {
     color: black;
 	font-size: 30px;
 	text-align: center;
+	background-color: rgb(255, 219, 239);
 }
