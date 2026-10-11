@@ -17,7 +17,7 @@
 }
 
 body {
-	background-image: url("https://i.ibb.co/NzF2vxm/67adar75dk321.png");
+	background-image: url("https://i.pinimg.com/736x/63/d7/49/63d749fa6ab69997cef52cf98f07b281.jpg");
 	font-family: verdana;
 	text-align: center;
 }
@@ -25,8 +25,8 @@ body {
 .content {
 	margin-left: 160px;
 	font-family: "Rowdies";
-    color: black;
+    color: rgb(174, 177, 180);
 	font-size: 30px;
-	text-align: center;
-	background-color: rgb(255, 219, 239);
+	text-align: left;
+	background-color: rgb(16, 16, 19);
 }
