@@ -25,8 +25,8 @@ body {
 }
 
 .content {
-	background-color: rgb(0,0,0);
 	margin-left: 160px;
+	background-image: "doki.png";
 	color: white;
 	font-family: "Bitcount Ink";
 	font-size: 30px;
