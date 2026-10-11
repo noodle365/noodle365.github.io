@@ -30,4 +30,5 @@ body {
 	text-align: left;
 	background-color: rgb(16, 16, 19);
 	border-style: inset;
+	border-width: 5px;
 }
