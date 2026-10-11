@@ -1,12 +1,13 @@
 .sidebar {
-	width: 120px;
+	height: 100%;
+	width: 160px;
 	position: fixed;
 	z-index: 1;
-	top: 10;
-	left: 20;
+	top: 0;
+	left: 0;
 	background-color: rgb(78,78,78);
 	overflow-x:hidden;
-	padding: 8px 0;
+	padding-top:20px;
 }
 
 /* ^^^^^^^^^^^^^^^^^ thank you w3schools https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp */
