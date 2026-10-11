@@ -18,6 +18,7 @@
 }
 
 .content {
+	text-align: center;
 	margin: 160px;
 	background-color: rgb(255, 204, 244);
 }
