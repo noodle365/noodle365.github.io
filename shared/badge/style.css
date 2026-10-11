@@ -24,7 +24,7 @@ body {
 
 .content {
 	margin-left: 160px;
-	font-family: "Rowdies";
+	font-family: "JetBrains Mono", monospace;
     color: rgb(174, 177, 180);
 	font-size: 30px;
 	text-align: left;
