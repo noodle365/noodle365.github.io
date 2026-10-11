@@ -12,6 +12,7 @@
 }
 
 .sidebar a {
+	background-color: rgb(255, 204, 244);
 	font-family: verdana;
 	text-align: center;
 }
