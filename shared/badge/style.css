@@ -1,16 +1,14 @@
 .sidebar {
-	height: 100%;
-	width: 160px;
+	width: 130px;
 	position: fixed;
 	z-index: 1;
-	top: 0;
-	left: 0;
+	top: 10;
+	left: 20;
 	background-color: rgba(75, 9, 49, 0.553);
 	overflow-x:hidden;
-	padding-top:20px;
+	padding:8px 0;
 }
 
-/* ^^^^^^^^^^^^^^^^^ thank you w3schools https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp */
 
 .sidebar a p {
 	font-family: "Bitcount Ink";
@@ -27,7 +25,6 @@ body {
 .content {
 	margin-left: 160px;
 	background-image: "doki.png";
-	color: white;
 	font-family: "Bitcount Ink";
 	font-size: 30px;
 	text-align: center;
