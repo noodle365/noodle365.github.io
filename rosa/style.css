@@ -29,3 +29,10 @@
 body {
   background-image: url("https://i.pinimg.com/736x/ad/79/e9/ad79e926e5d44ab742969c7873786bbe.jpg");
 }
+
+.stuff {
+	font-family: "Rowdies";
+	font-size: 18px;
+	margin: 160px;
+	background-color: rgb(255, 204, 244);
+}
