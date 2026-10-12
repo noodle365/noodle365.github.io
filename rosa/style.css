@@ -33,6 +33,7 @@ body {
 .stuff {
 	font-family: "Rowdies";
 	font-size: 18px;
-	margin: 160px;
+	margin-left: 160px;
+	margin-top: 15px;
 	background-color: rgb(255, 204, 244);
 }
