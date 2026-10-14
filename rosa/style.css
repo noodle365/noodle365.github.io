@@ -38,3 +38,12 @@ body {
 	margin-left: 160px;
 	background-color: rgb(255, 204, 244);
 }
+
+.button {
+	text-align:center;
+	background-color:rgb(255, 204, 244);
+	color:rgb(97, 44, 79);
+	padding: 5px;
+	font-family: "Rowdies";
+	font-size: 15px;
+}
