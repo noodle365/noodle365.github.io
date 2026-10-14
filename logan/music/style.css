@@ -1,0 +1,39 @@
+@import url('https://fonts.cdnfonts.com/css/nintendo-ds-bios');
+
+.sidebar {
+	width: 120px;
+	position: fixed;
+	z-index: 1;
+	top: 10;
+	left: 20;
+	background-color: rgb(78,78,78);
+	overflow-x:hidden;
+	padding: 8px 0;
+	text-align: center;
+}
+
+.sidebar a p{
+	font-family: 'Nintendo DS BIOS';
+	text-align: center;
+}
+
+.content {
+	margin: 160px;
+	background-color: #000000;
+    color: white;
+	font-family: "Mom's Typewriter";
+}
+
+body {
+    background-color: #000000;
+	font-family: "Mom's Typewriter";
+}
+
+p {
+	font-size:20px
+}
+
+@font-face {
+    font-family: "Mom's Typewriter";
+    src: "momstype.ttf";
+}
