@@ -40,11 +40,11 @@ body {
 }
 
 .button {
-	text-align:center;
+	text-align:left;
 	background-color:rgb(255, 204, 244);
 	color:rgb(97, 44, 79);
 	padding: 5px;
 	font-family: "Rowdies";
 	font-size: 15px;
-	margin: 15px 200px 15px 160px;
+	margin: 20px 300px 15px 160px;
 }
