@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: "momstype";
-    src: "momstype.ttf";
+    src: url(Moms_typewriter-webfont.woff) format(woff);
 }
 
 .sidebar a p{
