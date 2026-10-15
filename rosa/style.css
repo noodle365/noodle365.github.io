@@ -19,14 +19,14 @@
 .content {
 	font-family: "Rowdies";
 	font-size: 24px;
-	color:rgb(3, 0, 3);
+	color:rgb(252, 252, 252);
 	text-align: center;
 	margin: 180px;
 	background-color: rgb(8, 0, 7);
 	margin-bottom: 1px;
     margin-top: 15px;
 	border-style: solid;
-	border-color: rgb(185, 175, 182);
+	border-color: rgb(231, 224, 229);
 	border-width: 6px;
 }
 
@@ -50,7 +50,7 @@ body {
 	font-size: 20px;
 	margin: 20px 1000px 15px 160px;
 	border-style: solid;
-	border-color: rgb(185, 175, 182);
+	border-color: rgb(231, 222, 228);
 	border-width: 6px;
 }
 
