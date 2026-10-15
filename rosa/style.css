@@ -25,7 +25,7 @@
 	background-color: rgb(8, 0, 7);
 	margin-bottom: 1px;
     margin-top: 15px;
-	border-style: solid;
+	border-style: outset;
 	border-color: rgb(231, 224, 229);
 	border-width: 6px;
 }
@@ -33,6 +33,13 @@
 body {
   background-image: url("https://i.pinimg.com/736x/ab/70/5a/ab705aec5d2cbfc16e8b1e35963c21fc.jpg");
 }
+
+.header {
+    margin-left: 160px;
+	background-color: rgb(253, 253, 253);
+	color:black;
+}
+
 
 .p {
 	font-family: "Rowdies";
@@ -49,7 +56,7 @@ body {
 	font-family: "Rowdies";
 	font-size: 20px;
 	margin: 20px 1000px 15px 160px;
-	border-style: solid;
+	border-style: outset;
 	border-color: rgb(231, 222, 228);
 	border-width: 6px;
 }
