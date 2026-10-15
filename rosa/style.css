@@ -19,12 +19,15 @@
 .content {
 	font-family: "Rowdies";
 	font-size: 24px;
-	color:rgb(97, 44, 79);
+	color:rgb(253, 252, 253);
 	text-align: center;
-	margin: 160px;
+	margin: 180px;
 	background-color: rgb(255, 204, 244);
 	margin-bottom: 1px;
     margin-top: 15px;
+	border-style: solid;
+	border-color: rgb(185, 175, 182);
+	border-width: 6px;
 }
 
 body {
@@ -35,19 +38,19 @@ body {
 	font-family: "Rowdies";
 	font-size: 18px;
 	margin-left: 160px;
-	background-color: rgb(255, 204, 244);
+	background-color: rgb(0, 0, 0);
 }
 
 .button {
 	text-align:left;
-	background-color:rgb(255, 204, 244);
-	color:rgb(97, 44, 79);
+	background-color:rgb(0, 0, 0);
+	color:rgb(255, 255, 255);
 	padding: 5px;
 	font-family: "Rowdies";
 	font-size: 20px;
 	margin: 20px 1000px 15px 160px;
 	border-style: solid;
-	border-color: rgb(97, 44, 79);
+	border-color: rgb(185, 175, 182);
 	border-width: 6px;
 }
 
