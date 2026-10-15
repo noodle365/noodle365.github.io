@@ -38,6 +38,9 @@ body {
     margin-left: 160px;
 	background-color: rgb(253, 253, 253);
 	color:black;
+	text-align: middle;
+	border-style: outset;
+	border-color:rgb(8, 0, 7)
 }
 
 
