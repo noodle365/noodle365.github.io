@@ -5,10 +5,9 @@
 	z-index: 1;
 	top: 0;
 	left: 0;
-	background-color: rgb(255, 204, 244);
+	background-color: rgb(0, 0, 0);
 	overflow-x:hidden;
 	padding-top:20px;
-	background-image: url("https://i.pinimg.com/736x/ab/70/5a/ab705aec5d2cbfc16e8b1e35963c21fc.jpg");
 }
 
 .sidebar a {
